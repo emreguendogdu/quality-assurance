@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 .env
 node_modules
+=======
+/node_modules/
+.env
+*.vscode
+>>>>>>> 3514d2bcab405c1cbbcfa92b5dd855c2210e67aa
