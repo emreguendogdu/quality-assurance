@@ -1,10 +1,6 @@
 modules = ["nodejs-20:v8-20230920-bd784b9"]
 hidden = [".config", "package-lock.json"]
-<<<<<<< HEAD
 run = "npm run start"
-=======
-run = "npm run dev"
->>>>>>> 3514d2bcab405c1cbbcfa92b5dd855c2210e67aa
 
 [nix]
 channel = "stable-23_05"
